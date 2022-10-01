@@ -1,0 +1,90 @@
+.ti{
+  position: absolute;
+  margin-top: 30px;
+  margin-left:20px;
+  width: auto;
+  
+  
+}
+.button1 {
+  background-color:#ACD9FD;
+  padding: 8px 18px;
+  border-radius: 14px 14px 14px 14px;
+  position: absolute;
+  top: 1773px;
+  left: 121px;
+  margin:0px;
+  /* right: 120px; */
+
+  cursor: pointer;
+
+  opacity: 70%;
+}
+.button2 {
+  background-color:#ACD9FD;
+  padding: 8px 18px;
+  border-radius: 14px 14px 14px 14px;
+  position: absolute;
+  top: 1773px;
+  left: 404px;
+  margin:0px;
+  /* right: 120px; */
+
+  cursor: pointer;
+
+  opacity: 70%;
+}
+.containers {
+  position: absolute;
+  margin: 30px;
+  margin-right: 4px;
+  width: auto;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0);
+  right: 100px;
+}
+.topnav2 {
+  overflow: hidden;
+}
+.containers1 {
+  position: absolute;
+  margin-top:30px;
+  margin-left: 670px;
+  width: auto;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0);
+}
+.containers3 {
+  position: absolute;
+  margin-top:30px;
+  margin-left: 490px;
+  width: auto;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0);
+}
+.containers4 {
+  position: absolute;
+  margin-top:30px;
+  margin-left: 1060px;
+  width: auto;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0);
+}
+.containers2 {
+  position: absolute;
+  margin-top:30px;
+  margin-left: 870px;
+  width: auto;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0);
+}
+.footer {
+ 
+  left: 0;
+  bottom: 0;
+  height:150px;
+  width: 100%;
+  background-color:#283646;
+  color: white;
+  text-align: center;
+}
